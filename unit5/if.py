@@ -24,4 +24,3 @@ if name_2 not in names:
     print(f"\nYou are not invited.")
 else:
     print(f"\nYou are invited.")
-###
