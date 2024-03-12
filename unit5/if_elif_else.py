@@ -8,4 +8,5 @@ elif age >= 12:
     print("No, bro.")
 else:
     print("Access Denied.")
+    
 #if-elif-else just does the judgement only once.
