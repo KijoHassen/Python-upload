@@ -20,5 +20,5 @@ print(exmp2)
 exmp.append(4)
 exmp2.append(3)
 print(exmp)
-print(exmp2)
+print(exmp2) 
 #这样就是两个不同列表了
